@@ -5,4 +5,4 @@ To run the run.py
 
 -Open terminal 
 
-python run.py
+python3 run.py
